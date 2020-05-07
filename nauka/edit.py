@@ -1,0 +1,6 @@
+plik = open("pliczek_slowniczek.txt", "w")
+plik.write("Jakiś durny napis")
+plik.close()
+plik = open("pliczek_slowniczek.txt")
+print (plik.read())
+plik.close()
