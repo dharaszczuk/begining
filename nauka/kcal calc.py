@@ -1,3 +1,4 @@
+#prosty kalkulator dziennego zapotrzebowania na kalorie
 print ("Do obliczenia dziennego zapotrzebowania na kalorie \nbędziemy potrzebowali kliku danych\n")
 w = int(input ("Podaj swoją wagę w kg:\n"))
 h = int(input ("Podaj swój wzrost w cm:\n"))
